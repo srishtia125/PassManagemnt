@@ -1,9 +1,9 @@
 Pass Management Assignment
 
-This assignment is designed on spring-boot framework.
+This assignment is designed on spring-boot framework and in-memory database H2 database.
 
 Installation
-DOwnload the zip file and unzip it or 
+Download the zip file and unzip it or 
 Clone the source code/download from folder and unzip
 git clone https://github.com/srishtia125/PassManagemnt.git
 
