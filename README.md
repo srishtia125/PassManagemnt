@@ -15,12 +15,17 @@ command: mvn spring-boot:run
 Once the server is started,
 http://localhost:8080/swagger-ui.html#/
 
+Steps:
+Create a customer
+Create a vendor
+Create a pass with valid customer and vendor Id
+
 APIs
 # Add new customer /customer
-returns customer details
+Returns customer details
 
 # Add new Vendor /vendor
-returns vendor details
+Returns vendor details
 
 # Add new Pass /pass
 This Api returns the pass details.
