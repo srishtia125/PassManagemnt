@@ -16,7 +16,7 @@ Once the server is started,
 http://localhost:8080/swagger-ui.html#/
 
 APIs
-# Add new customer /cutomer
+# Add new customer /customer
 returns customer details
 
 # Add new Vendor /vendor
@@ -24,6 +24,7 @@ returns vendor details
 
 # Add new Pass /pass
 This Api returns the pass details.
+
 customernotfoundexception is thrown when wrong customer  is provided 
 vendornotfoundexception is thrown when wrong vendorid  is provided 
 
