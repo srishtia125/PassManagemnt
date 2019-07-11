@@ -8,7 +8,7 @@ Clone the source code/download from folder and unzip
 git clone https://github.com/srishtia125/PassManagemnt.git
 
 Go to the checked out source code and start the server locally (Server will start on port 8080 , make sure no other is using the same port)
-
+path :  \PassManagemnt\leisure-pass-demo\leisure-pass-demo
 mvn spring-boot:run
 
 Once the server is started,
